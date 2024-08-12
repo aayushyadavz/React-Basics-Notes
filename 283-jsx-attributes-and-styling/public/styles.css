@@ -1,0 +1,16 @@
+.heading {
+    color: red;
+}
+
+.food-img {
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+
+/* also we can */
+/* img {
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+} */
