@@ -22,7 +22,7 @@ ReactDOM.render(
   document.getElementById("root")
 );
 
-// In JS in order to access classes that exist on an element, we use a property called className. And here in JSX we write attributes in camel case.
+// In JS, in order to access classes that exist on an element, we use a property called className. And here in JSX we write attributes in camel case.
 
 
 
