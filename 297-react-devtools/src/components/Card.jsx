@@ -1,6 +1,5 @@
 import React from "react";
 import Avatar from "./Avatar"
-import contacts from "../contacts";
 import Details from "./Details";
 
 function Card(props) {

@@ -9,4 +9,4 @@ function triplePi(){
 }
 
 export default pi // In a single file we can only have a single default export
-export { doublePi, triplePi}
+export { doublePi, triplePi }

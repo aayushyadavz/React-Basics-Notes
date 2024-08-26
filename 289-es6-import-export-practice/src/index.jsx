@@ -5,7 +5,7 @@ import ReactDOM from "react-dom";
 //from the calculator.js file.
 //If successful, your website should look the same as the Final.png
 
-import {add, multiply, subtract, divide} from "./calculator"
+import { add, multiply, subtract, divide } from "./calculator"
 
 ReactDOM.render(
   <ul>

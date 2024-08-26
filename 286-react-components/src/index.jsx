@@ -9,7 +9,7 @@ ReactDOM.render(
 );
 
 /* Created a folder named "components" in which created three components file and 2 components 
-"Heading, List" have been used inside App conponent, then the App component is inserted and imported 
+"Heading, List" have been used inside App component, then the App component is inserted and imported 
 in index.jsx file which renders the components on the screen. */
 
 

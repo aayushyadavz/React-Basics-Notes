@@ -19,7 +19,7 @@ ReactDOM.render(
     , document.getElementById("root")
 );
 
-// Style attribute value ("color: red") is just replaced with a Javascript Object ({color: red}) for inline style in JSX file.
+// Style attribute value ("color: red") is just replaced with a Javascript Object ({color: "red"}) for inline style in JSX file.
 
 
 // ------------------------------------------------------------
