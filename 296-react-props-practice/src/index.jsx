@@ -12,6 +12,8 @@ ReactDOM.render(<App />, document.getElementById("root"));
 //so the Card component can be reused for other contacts.
 //4. Import the contacts.js file to create card components.
 
+
+// -----------------------------------------------------------
 // If you're running this locally in VS Code use the commands:
 // npm install
 // to install the node modules and

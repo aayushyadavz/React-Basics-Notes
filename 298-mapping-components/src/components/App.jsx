@@ -23,28 +23,6 @@ function App() {
       <h1 className="heading">My Contacts</h1>
       {/* map function on contacts array and a func. is passed inside this map func. */}
       {contacts.map(createCard)}
-
-      {/* <Card
-        key={contacts[0].id}
-        name={contacts[0].name}
-        img={contacts[0].imgURL}
-        tel={contacts[0].phone}
-        email={contacts[0].email}
-      />
-      <Card
-        key={contacts[1].id}
-        name={contacts[1].name}
-        img={contacts[1].imgURL}
-        tel={contacts[1].phone}
-        email={contacts[1].email}
-      />
-      <Card
-        key={contacts[2].id}
-        name={contacts[2].name}
-        img={contacts[2].imgURL}
-        tel={contacts[2].phone}
-        email={contacts[2].email}
-      /> */}
     </div>
   );
 }

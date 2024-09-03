@@ -1,8 +1,7 @@
 import React from "react";
 
 function Heading(){
-    const date = new Date();
-    const currentTime = date.getHours();
+    const currentTime = new Date().getHours();
 
     let greeting;
 
