@@ -21,7 +21,7 @@ var isDone = false; // (The State)
 // function unStrike() {
 //   isDone = false;
 // }
-// These upper codes will not work because the elements inside App func. are being rendered and they are not changeable, they have to be rerendered on the screen in order for the changes in their properties and to do that we have to learn about hooks.
+// These upper codes will not work because the elements inside App func. are being rendered and they are not changeable, they have to be re-rendered on the screen in order for the changes in their properties and to do that we have to learn about hooks.
 
 function App() {
   return (
