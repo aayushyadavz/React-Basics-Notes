@@ -30,6 +30,9 @@ function App() {
     const { value, name } = e.target
 
     setFullName( (preValue) => {
+
+      // if (event.target.name === "fName") {} // never try to access the event inside these statefull setters.
+
       // console.log(preValue); // it prints an object with fName empty and lName empty
       if (name === "fName") {
         return {
